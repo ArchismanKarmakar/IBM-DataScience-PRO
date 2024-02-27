@@ -2,7 +2,7 @@
 ## Author: Archisman Karmakar
 [February 2024]
 
-![Direct Link](https://github.com/ArchismanKarmakar/IBM-DataScience-PRO/tree/main/Rain-Prediction-AUS-HONORS/Rain-Prediction-main)
+![Direct Link to Project](https://github.com/ArchismanKarmakar/IBM-DataScience-PRO/tree/main/Rain-Prediction-AUS-HONORS/Rain-Prediction-main)
 
 This project was done as a part of the Honors portion of the IBM Machine Learning Course on Coursera
 ### Built a classifier to predict whether there will be rain the following day or not.
